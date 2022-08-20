@@ -132,7 +132,7 @@ def find_npc(hwnd,npc):  # 寻找护送坐标 alt+n是快捷键
     elif npc == "qycs":
         # 点击查询
         pyperclip.copy('青云门传')  # 先复制
-
+    ########
     else:
         pass
 
